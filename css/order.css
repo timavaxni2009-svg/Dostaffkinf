@@ -1,5 +1,5 @@
 #map {
-    background-image: url("/images/order-bg.png");
+    background-image: url("./images/order-bg.png");
     background-size: cover;
     position: fixed;
     inset: 0;
