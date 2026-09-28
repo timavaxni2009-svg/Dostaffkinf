@@ -17,7 +17,8 @@
 
 
 ### Отслеживание посылки
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cdd65496-0ad2-43fb-802b-f9a4fcee0ca0" />
+<img width="1860" height="950" alt="image" src="https://github.com/user-attachments/assets/c75b912f-13e1-4032-b51f-1188a787995d" />
+
 
 
 ---
