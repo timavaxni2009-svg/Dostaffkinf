@@ -9,15 +9,15 @@
 ## 📸 Скриншоты
 
 ### Главная страница
-![Главная]<img width="1841" height="1035" alt="image" src="https://github.com/user-attachments/assets/2f518110-f879-4713-9824-70e1b182ebdc" />
+<img width="1841" height="1035" alt="image" src="https://github.com/user-attachments/assets/2f518110-f879-4713-9824-70e1b182ebdc" />
 
 
 ### Оформление доставки
-![Оформление доставки]<img width="1860" height="950" alt="image" src="https://github.com/user-attachments/assets/2c2533b0-bde4-4da2-b2c9-02629b9be325" />
+<img width="1860" height="950" alt="image" src="https://github.com/user-attachments/assets/2c2533b0-bde4-4da2-b2c9-02629b9be325" />
 
 
 ### Отслеживание посылки
-![Отслеживание]<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cdd65496-0ad2-43fb-802b-f9a4fcee0ca0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cdd65496-0ad2-43fb-802b-f9a4fcee0ca0" />
 
 
 ---
