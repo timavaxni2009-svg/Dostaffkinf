@@ -93,7 +93,7 @@ document.addEventListener('DOMContentLoaded', () => {
             if (!active) row.style.opacity = '0.35';
 
             row.innerHTML = `
-                <img src="/images/icons/${s.cls}.svg" class="track-status-icon" alt="${s.label}">
+                <img src="./images/icons/${s.cls}.svg" class="track-status-icon" alt="${s.label}">
                 <div class="track-status-text">
                     <div class="track-status-text-state">${s.label}</div>
                     <div class="track-status-text-date">${active ? formatDate(s.date) : '—'}</div>
